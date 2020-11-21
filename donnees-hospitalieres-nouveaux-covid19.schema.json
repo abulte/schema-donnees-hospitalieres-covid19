@@ -1,0 +1,37 @@
+{
+  "fields": [
+    {
+      "format": "default",
+      "name": "dep",
+      "type": "string"
+    },
+    {
+      "format": "%Y-%m-%d",
+      "name": "jour",
+      "type": "date"
+    },
+    {
+      "format": "default",
+      "name": "incid_hosp",
+      "type": "integer"
+    },
+    {
+      "format": "default",
+      "name": "incid_rea",
+      "type": "integer"
+    },
+    {
+      "format": "default",
+      "name": "incid_dc",
+      "type": "integer"
+    },
+    {
+      "format": "default",
+      "name": "incid_rad",
+      "type": "integer"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}

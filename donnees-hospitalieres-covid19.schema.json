@@ -1,0 +1,42 @@
+{
+  "fields": [
+    {
+      "format": "default",
+      "name": "dep",
+      "type": "string"
+    },
+    {
+      "format": "default",
+      "name": "sexe",
+      "type": "integer"
+    },
+    {
+      "format": "%Y-%m-%d",
+      "name": "jour",
+      "type": "date"
+    },
+    {
+      "format": "default",
+      "name": "hosp",
+      "type": "integer"
+    },
+    {
+      "format": "default",
+      "name": "rea",
+      "type": "integer"
+    },
+    {
+      "format": "default",
+      "name": "rad",
+      "type": "integer"
+    },
+    {
+      "format": "default",
+      "name": "dc",
+      "type": "integer"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}

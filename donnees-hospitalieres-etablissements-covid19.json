@@ -1,0 +1,22 @@
+{
+    "fields": [
+      {
+        "format": "default",
+        "name": "dep",
+        "type": "string"
+      },
+      {
+        "format": "%Y-%m-%d",
+        "name": "jour",
+        "type": "date"
+      },
+      {
+        "format": "default",
+        "name": "nb",
+        "type": "integer"
+      }
+    ],
+    "missingValues": [
+      ""
+    ]
+  }
